@@ -8,7 +8,7 @@ In this task, I created a one-page infographic to explain what digital literacy 
 For this task, I created and updated my profiles on platforms like GitHub, LinkedIn, and Kaggle. This helped me understand how to build a professional online presence and how these platforms are useful for future opportunities.
 
 # Task 3 – Coding & Collaboration Platforms
-In this task, I practiced coding on HackerRank by solving a beginner-level problem. I also created a Google Form quiz to understand how collaboration tools can be used for collecting and analyzing responses. Here is the link to my google forms quiz- https://forms.gle/9XYPnQLrb8BuiucdA
+In this task, I practiced coding on HackerRank by solving a beginner-level problem. I also created a Google Form quiz to understand how collaboration tools can be used for collecting and analyzing responses. Here is the link to my google forms quiz- https://forms.gle/cNWv1DmYgs8rTzxZ7
 
 # Task 4 – Professional Email & Etiquette
 This task involved writing formal emails and learning proper email etiquette. I also created a checklist of social media do’s and don’ts to promote responsible online behavior among students.
